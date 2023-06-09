@@ -1,0 +1,20 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.details {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.delete {
+ margin-right: 10px;
+}
+
+.textInput {
+  margin-right: 10px;
+}
